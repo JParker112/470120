@@ -5,7 +5,7 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
 
-    public float speed = 10f;
+    public float speed = 2f;
 
 
     private Transform target;
